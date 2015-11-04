@@ -1,20 +1,20 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+title: For changing myself first
+tagline: Keep it simple, stupid!  (paper for idea - CLI for coding - GUI for end user only)
+author: Giang Do (Đỗ Trường Giang)
+email: dotruonggiang108@gmail.com
+description: "My blog is used to change myself first!" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "electronic, embedded, linux, điện tử, nhúng"
 #baseurl: "/freshman21" # the subpath of your site, e.g. /blog
-#url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+url: "http://giangdo.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: giangdo 
+github_username: giangdo 
+disqus_shortname: giangdo 
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: Hi, this is Giang Do. I'm Vietnamese. I'm inpired by opensource idea about electronic, Internet of Things and Linux. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
@@ -55,12 +55,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: Freshman21
-      href: http://yulijia.net/freshman21
-      title: Another Jekyll blog theme
+    - name: giangdo
+      href: http://giangdo.github.io/
+      title: Giang Do's blog 
     - name: author's website
-      href: http://yulijia.net/
-      title: Lijia Yu's website
+      href: http://giangdo.github.io/
+      title: Giang Do's blog
 
 
 ### Build settings
